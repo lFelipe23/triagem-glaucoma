@@ -2,8 +2,6 @@
 
 Este repositório contém a implementação prática de um sistema de triagem clínica de urgência assistido por Inteligência Artificial para avaliação do risco de glaucoma. O projeto compara o desempenho de três estruturas de dados fundamentais (**Heap Máxima**, **Árvore Binária de Busca - ABB** e **Árvore AVL**) em um cenário de fluxo hospitalar crítico.
 
-Projeto desenvolvido como parte dos requisitos práticos da disciplina de **Estruturas de Dados** do curso de **Análise e Desenvolvimento de Sistemas (3º Período)** no **Instituto Federal de Pernambuco (IFPE) - Campus Palmares**.
-
 ---
 
 ## 📌 Cenário do Projeto
@@ -61,3 +59,9 @@ Os testes práticos demonstram que a **Heap Máxima** consolida-se como a arquit
 * Erik Jerônimo
 * Joseildo dos Santos
 * Luis Felipe
+
+---
+
+## 🎓 Contexto Acadêmico e Institucional
+
+Este projeto foi desenvolvido com fins educacionais como parte dos requisitos práticos da disciplina de **Estruturas de Dados**, do curso de **Análise e Desenvolvimento de Sistemas (3º Período)** no **Instituto Federal de Pernambuco (IFPE) - Campus Palmares**. 
