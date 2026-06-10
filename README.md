@@ -26,14 +26,27 @@ O projeto está organizado da seguinte forma para manter a clareza e a modularid
 
 ---
 
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 **Pré-requisitos:** Python 3.10+ instalado.
 
 **1. Clonar o Repositório**
 ```bash
-git clone [https://github.com/IFelipe23/triagem-glaucoma.git](https://github.com/IFelipe23/triagem-glaucoma.git)
+git clone https://github.com/IFelipe23/triagem-glaucoma.git
 cd triagem-glaucoma
+```
+
+**2. Instalar Dependências**
+```bash
+pip install matplotlib
+```
+
+**3. Executar a Simulação**
+```bash
+python main.py
+```
+
+---
 
 ## 📊 Métricas e Resultados
 
