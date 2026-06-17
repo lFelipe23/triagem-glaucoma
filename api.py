@@ -98,7 +98,7 @@ async def post_chamar_proximo():
         "paciente": paciente.to_dict(posicao=0)
     }
 
-@app.post("/api/upload", summary="Insere novo paciente e exame na fila")
+@app.post("/api/upload", status_code=201, summary="Insere novo paciente e exame na fila")
 async def post_upload(
     nome: str = Form(...),
     idade: int = Form(...),
