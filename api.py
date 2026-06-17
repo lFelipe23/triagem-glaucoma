@@ -61,9 +61,9 @@ class FilaPrioridade:
 # Instância global da fila para manter os dados em memória enquanto a API roda
 fila_hospital = FilaPrioridade()
 
-# ==========================================
+# =========================================
 # 3. ENDPOINTS DA API (FASTAPI)
-# ==========================================
+# =========================================
 app = FastAPI(
     title="API Triagem de Glaucoma",
     description="Backend para gerenciamento da fila de prioridade hospitalar via Heap Máxima.",
